@@ -1,16 +1,34 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Nihad-Hamsho/Nihad-Hamsho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# أهلاً بك في ملفي الشخصي 👋
 
-Here are some ideas to get you started:
+![Typing SVG](https://demolab.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+### 👨‍💻 نبذة عني
+أنا *نهاد حمشو*، طالب في المعهد التقاني للحاسوب. شغوف بالبرمجة وتطوير البرمجيات، وأسعى دائماً لتطوير مهاراتي وتعلم تقنيات جديدة لمواكبة التطور البرمجي.
+
+- 🚀 *حالياً:* أركز على تعلم مهارات برمجية جديدة وتطوير أدواتي.
+- 📁 *مشروعي المميز:* [*Printer Queue System*](https://github.com) - نظام إدارة طابور الطابعات.
+
+---
+
+### 🛠️ التقنيات واللغات (Technologies & Skills)
+
+💻 *لغات البرمجة:*
+![Python](https://shields.io)
+![C++](https://shields.io)
+
+🌐 *تطوير الويب:*
+![HTML5](https://shields.io)
+![CSS3](https://shields.io)
+
+---
+
+### 📊 إحصائيات الحساب
+<div align="center">
+  <img src="https://vercel.app" alt="Nihad's GitHub Stats" />
+</div>
